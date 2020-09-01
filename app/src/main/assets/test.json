@@ -1,0 +1,6 @@
+[
+  {"name": "Sam", "msg": "Hello world", "address": {"city": "Seoul","post": 123} },
+  {"name": "Robin", "msg": "Good morning","address": {"city": "Busan","post": 456} }
+]
+
+
